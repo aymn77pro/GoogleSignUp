@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">GoogleSignUp</string>
+    <string name="First_name">First name</string>
+    <string name="Last_name">Last name</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="confirm">confirm</string>
+    <string name="Naxt">Naxt</string>
+    <string name="gmail">:@gmail.com</string>
+    <string name="UserNameText">you can use letters, number &amp; symbols</string>
+    <string name="signIn_instead">Use my current email address instead</string>
+    <string name="PsseordRiquer">Use 8 or more letter, number &amp; symbols</string>
+    <string name="show_password">Show password</string>
+    <string name="signIn">Sing in instead</string>
+    <string name="CreatYouer">Creat your google Account</string>
 </resources>

@@ -12,9 +12,8 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.button2.setOnClickListener {
-            Toast.makeText(this, "Next", Toast.LENGTH_SHORT).show()
+       binding.button2.setOnClickListener {
+            Toast.makeText(this, "Walcome to Google", Toast.LENGTH_SHORT).show()
         }
-
     }
 }
